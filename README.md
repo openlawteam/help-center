@@ -24,7 +24,7 @@ Just the body content of the page. The title will be set via configuration which
 
 ## Drafting a file for publishing later
 
-1. Follow steps 1-5 above
+1. Follow [steps 1-5](https://github.com/openlawteam/help-center#adding-a-file-for-immediate-publishing) above
 2. Select "Create a new branch for this commit and start a pull request"
 3. Click "Propose changes"
 6. Click "Create pull request"
