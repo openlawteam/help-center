@@ -27,7 +27,5 @@ Just the body content of the page. The title will be set via configuration which
 1. Follow steps 1-5 above
 2. Select "Create a new branch for this commit and start a pull request"
 3. Click "Propose changes"
-4. Go to [Pull requests](https://github.com/openlawteam/help-center/pulls) to start a pull request into the `main` branch for publishing
-5. Select your branch in the "compare" drop-down at the top of the page
-6. Click the green buttont to create the pull request
+6. Click the green button to create the pull request
 7. Once your draft is ready, merge the pull request into the `main` branch
